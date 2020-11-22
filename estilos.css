@@ -1,0 +1,154 @@
+html {
+    display: block;
+    margin-top: -10px;
+}
+
+.parte-arriba {
+    margin: auto;
+    background:url("bg_top.png") ;
+    width: 1017px;
+}
+
+form {
+    float: right;
+    padding: 24px 25px 0px 0px ;
+}
+
+body {
+    background: url("inicio_1.png") ;
+    background-size: 100% 100%;
+}
+
+.barra {
+    margin-left: auto;
+    margin-right: auto;
+    background: url("bg_menu.png");
+    font-family: Arial;
+    width: 990px;
+    height: 25px;
+    padding-top: 7px;
+    padding-left: 27px;
+    font-size: .8em;
+
+} 
+    
+.barra a {
+    text-decoration: none;
+    float: left;
+    color: #64c6ff;
+    text-align: center;
+    padding: 0px 5px 0px 5px;
+    border-right:1px solid #64c6ff;
+}
+
+.barra a:link{
+    color: #64c6ff;
+}
+
+.barra a:hover {
+    color: #64c6ff;
+}
+
+.parte-media {
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    width: 1017px; 
+    height: 350px; 
+}
+
+.FP {
+    float: left;
+    background: url("final.jpg") no-repeat;
+    background-size: 658px 350px;
+    width: 658px; 
+    height: 358px; 
+}
+.FP h1{
+    color: #b60000;
+    font-family: Arial;
+    font-size: 1.8em;
+}
+
+.FP h3{
+
+    color: white;
+    font-size: 0.85em;
+    margin: 18px 0px 14px 0px;
+}
+
+.FP p {
+    color: white;
+    font-size: small;
+    margin: 0px 0px 0px 0px;
+}
+
+.TP {
+    margin: 90px 0px 0px 20px;
+    font-family: Arial;
+}
+
+.N {
+    float: right;
+    font-family: Arial;
+    
+    width: 356px;
+    margin: 2px 0px 19px 2px;
+    display: block;
+}
+
+.N h3{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding: 10px 0px 0px 0px;
+    color: white;
+}
+
+.N li {
+    float: right;
+    list-style: none;
+    width: 360px;
+    margin: 0px 0px 12px 0px;
+}
+
+.N p {
+    float: right;
+    font-size: 0.9em;
+    margin:.4em 1em 0em .5em;
+    width: 275px;
+    color: #cacacac5;
+    text-align: justify;
+}
+
+
+.parte-abajo {
+    margin: 0px auto 0px auto;
+    background:url("bg_peu.png") no-repeat ;
+    background-size: 100% 100%;
+    width: 1018px;
+    height: 90px;
+}
+
+.derechos p {
+    color: #6e6e6e;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 17px;
+    font-size: .7em;
+}
+
+.redes {
+    margin: 20px auto 0px auto;
+    width: 127px;
+    height: 40px;
+}
+
+.redes div{
+    margin: auto;
+    float: left;
+    padding: 0px 5px 0px 5px;
+    width: 32px;
+    height: 32px;
+    
+}
